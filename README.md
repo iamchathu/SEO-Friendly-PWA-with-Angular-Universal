@@ -1,5 +1,7 @@
 # EggheadNgStore
 
+Project created following the tutorial [SEO Friendly Progressive Web Applications with Angular Universal](https://egghead.io/courses/seo-friendly-progressive-web-applications-with-angular-universal) at Egghead.io
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
@@ -22,6 +24,6 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+## Deploy
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Run `npm run build && npm run now`
